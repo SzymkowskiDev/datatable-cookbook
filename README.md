@@ -26,133 +26,150 @@ Open the cookbook.R file in IDE like R Studio.
 library(data.table)
 ```
 
-# 📝 How to do x?
+## 📝 How to create a data.table object?
+
+You can create a data.table by supplying data.table() function with column=values like arguments.
+```R
+DT = data.table(
+  ID = c("b","b","b","a","a","c"),
+  a = 1:6,
+  b = 7:12,
+  c = 13:18
+)
+```
+
+Or you can supply a data.frame to the data.table() funtion:
+```R
+dt = data.frame(A = c(1, 2), B = c(2, 3))
+DT_2 = data.table(dt)
+```
+Similar outcome could be achived with functions setDT() and as.data.table().
+
+Lastly, you can load a .CSV file with the help of fread() function:
+```R
+DT_3 = fread("data.csv")
+```
+
+## 📝 How to do x?
 
 Description of the example.
 ```R
 CODE GOES HERE
 ```
 
-# 📝 How to do x?
+## 📝 How to do x?
 
 Description of the example.
 ```R
 CODE GOES HERE
 ```
 
-# 📝 How to do x?
+## 📝 How to do x?
 
 Description of the example.
 ```R
 CODE GOES HERE
 ```
 
-# 📝 How to do x?
+## 📝 How to do x?
 
 Description of the example.
 ```R
 CODE GOES HERE
 ```
 
-# 📝 How to do x?
+## 📝 How to do x?
 
 Description of the example.
 ```R
 CODE GOES HERE
 ```
 
-# 📝 How to do x?
+## 📝 How to do x?
 
 Description of the example.
 ```R
 CODE GOES HERE
 ```
 
-# 📝 How to do x?
+## 📝 How to do x?
 
 Description of the example.
 ```R
 CODE GOES HERE
 ```
 
-# 📝 How to do x?
+## 📝 How to do x?
 
 Description of the example.
 ```R
 CODE GOES HERE
 ```
 
-# 📝 How to do x?
+## 📝 How to do x?
 
 Description of the example.
 ```R
 CODE GOES HERE
 ```
 
-# 📝 How to do x?
+## 📝 How to do x?
 
 Description of the example.
 ```R
 CODE GOES HERE
 ```
 
-# 📝 How to do x?
+## 📝 How to do x?
 
 Description of the example.
 ```R
 CODE GOES HERE
 ```
 
-# 📝 How to do x?
+## 📝 How to do x?
 
 Description of the example.
 ```R
 CODE GOES HERE
 ```
 
-# 📝 How to do x?
+## 📝 How to do x?
 
 Description of the example.
 ```R
 CODE GOES HERE
 ```
 
-# 📝 How to do x?
+## 📝 How to do x?
 
 Description of the example.
 ```R
 CODE GOES HERE
 ```
 
-# 📝 How to do x?
+## 📝 How to do x?
 
 Description of the example.
 ```R
 CODE GOES HERE
 ```
 
-# 📝 How to do x?
+## 📝 How to do x?
 
 Description of the example.
 ```R
 CODE GOES HERE
 ```
 
-# 📝 How to do x?
+## 📝 How to do x?
 
 Description of the example.
 ```R
 CODE GOES HERE
 ```
 
-# 📝 How to do x?
-
-Description of the example.
-```R
-CODE GOES HERE
-```
-
-# 📝 How to do x?
+## 📝 How to do x?
 
 Description of the example.
 ```R
