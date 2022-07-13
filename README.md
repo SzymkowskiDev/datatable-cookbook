@@ -1,6 +1,6 @@
 ![data.table](https://github.com/SzymkowskiDev/datatable-cookbook/blob/master/data.table_logo.png?raw=true)
 
-# data.table Cookbook
+# data.table Cookbook 🥘📗
 📊 Size, dependencies, version, code coverage
 
 Short description.
