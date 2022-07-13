@@ -1,5 +1,6 @@
+![data.table](https://github.com/SzymkowskiDev/datatable-cookbook/blob/master/data.table_-1.png?raw=true)
 
-# Project Title
+# data.table Cookbook
 📊 Size, dependencies, version, code coverage
 
 Short description.
