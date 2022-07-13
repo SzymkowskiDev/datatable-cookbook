@@ -2,11 +2,9 @@
 
 # data.table Cookbook 🥘📗
 The data.table package converts the built-in R data frame into a more performant data object called data.table.
-Better performance is achived in:
+The data.table object achieves better performance in terms of:
 * memory efficiency
 * speed of operations
-
-Short description.
 
 ## 🎓 Learning Materials
 * [Official docs](https://rdatatable.gitlab.io/data.table/)
@@ -15,6 +13,25 @@ Short description.
 * [CRAN](https://cran.r-project.org/web/packages/data.table/index.html)
 * [CHEAT SHEET](https://github.com/SzymkowskiDev/datatable-cookbook/blob/master/datatable.pdf)
 * [R Documentation](https://www.rdocumentation.org/packages/data.table/versions/1.14.2)
+
+## 🚀 How to run
+Open the cookbook.R file in IDE like R Studio.
+
+# 📦 Packages
+
+```R
+library(data.table)
+```
+
+
+
+
+
+
+
+
+
+
 
 ## Contents
 Table of contents goes here
@@ -83,8 +100,7 @@ Solution to error 2.
 
 ``` SOLUTION CODE ```
 
-## 🚀 Upgrading
-Description.
+
 
 ## 📖 Documentation
 Link to the wiki or external site.
