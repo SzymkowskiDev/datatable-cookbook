@@ -8,6 +8,14 @@ Better performance is achived in:
 
 Short description.
 
+## 🎓 Learning Materials
+* [Official docs](https://rdatatable.gitlab.io/data.table/)
+* [GitHub repo](https://github.com/Rdatatable/data.table)
+* [CRAN Vignette](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
+* [CRAN](https://cran.r-project.org/web/packages/data.table/index.html)
+* [CHEAT SHEET](https://github.com/SzymkowskiDev/datatable-cookbook/blob/master/datatable.pdf)
+* [R Documentation](https://www.rdocumentation.org/packages/data.table/versions/1.14.2)
+
 ## Contents
 Table of contents goes here
 
@@ -38,31 +46,6 @@ Description of the example.
 ```javascript
 CODE GOES HERE
 ```
-
-## 👨‍💻 Contributing
-Sth
-
-## 📦 Builds
-Sth
-
-## 📂 Directory Structure
-Sth
-
-## 📅 Release schedule / Development schedule / Plans / TODOs
-**Version 1.0.0**
-
-- [x] Feature 1
-- [x] Feature 2
-- [x] Feature 3
-
-**Version 2.0.0**
-
-- [ ] Feature 4
-- [ ] Feature 5
-- [ ] Feature 6
-
-## 🆕 Changelog
-A changelog is a file which contains a curated, chronologically ordered list of notable changes for each version of a project.
 
 ## ⚙ Configurations
 Sth
@@ -105,16 +88,6 @@ Description.
 
 ## 📖 Documentation
 Link to the wiki or external site.
-
-## 🔗 Related Projects / Thanks / References / Acknowledgement 
-* Description 1 [Name 1](http://markdown.github.io)
-* Description 2 [Name 2](http://markdown.github.io)
-* Description 3 [Name 3](http://markdown.github.io)
-
-## 🎓 Learning Materials
-* Description 1 [Name 1](http://markdown.github.io)
-* Description 2 [Name 2](http://markdown.github.io)
-* Description 3 [Name 3](http://markdown.github.io)
 
 ## 📧 Contact
 [![](https://img.shields.io/twitter/url?label=/SzymkowskiDev&style=social&url=https%3A%2F%2Ftwitter.com%2FSzymkowskiDev)](https://twitter.com/SzymkowskiDev) [![](https://img.shields.io/twitter/url?label=/kamil-szymkowski/&logo=linkedin&logoColor=%230077B5&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkamil-szymkowski%2F)](https://www.linkedin.com/in/kamil-szymkowski/) [![](https://img.shields.io/twitter/url?label=@szymkowskidev&logo=medium&logoColor=%23292929&style=social&url=https%3A%2F%2Fmedium.com%2F%40szymkowskidev)](https://medium.com/@szymkowskidev) [![](https://img.shields.io/twitter/url?label=/SzymkowskiDev&logo=github&logoColor=%23292929&style=social&url=https%3A%2F%2Fgithub.com%2FSzymkowskiDev)](https://github.com/SzymkowskiDev)
