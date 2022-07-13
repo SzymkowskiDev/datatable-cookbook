@@ -1,7 +1,10 @@
 ![data.table](https://github.com/SzymkowskiDev/datatable-cookbook/blob/master/data.table_logo.png?raw=true)
 
 # data.table Cookbook 🥘📗
-📊 Size, dependencies, version, code coverage
+The data.table package converts the built-in R data frame into a more performant data object called data.table.
+Better performance is achived in:
+* memory efficiency
+* speed of operations
 
 Short description.
 
